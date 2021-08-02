@@ -1,4 +1,4 @@
-#Hosting a Jenkins Server
+# Hosting a Jenkins Server
 - Hosting a jenkins server locally is easy to do
 - Extensive documentation can be found at ```https://www.jenkins.io/doc/book/installing/linux/#debianubuntu```
 
